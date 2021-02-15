@@ -11,3 +11,10 @@ RAM that's plugged into a motherboard provides data used to run programs on a PC
 The processor allocates this data to different programs being ran on the PC.
 The processor may use virtual memory if the RAM data limit is exceeded by the data needed to run all programs user is running.
 If virtual memory is used, processor will allocate free space on HD or SSD to mitigate slowing or freezing the system.
+
+Monitoring Performance.
+
+The Processor keeps track of all programs being ran on the computer and how much data they are using.
+If the user desires, the UI allows them to look at an organized list of programs so they can make educated choices to free up data usage.
+Also, by listing all programs for a user it allows them to see any programs they thought they may have closed but accidentally kept it running in the background.
+If multiple users are signed into a single PC, the PC can list which users are using what programs, to avoid any work lost to all users from accidental shutdown.

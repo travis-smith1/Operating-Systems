@@ -1,0 +1,6 @@
+Starting the Computer.
+
+Enable power to flow into the machine, to the processor.
+Once power flows to processor, it uses the energy to locate start up instructions.
+The processor then tests the RAM, SSD, HD, plugged in devices, and firmware.
+Processor loads the kernel of the operating system to get the system running.

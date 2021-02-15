@@ -4,3 +4,10 @@ Enable power to flow into the machine, to the processor.
 Once power flows to processor, it uses the energy to locate start up instructions.
 The processor then tests the RAM, SSD, HD, plugged in devices, and firmware.
 Processor loads the kernel of the operating system to get the system running.
+
+Managing Memory.
+
+RAM that's plugged into a motherboard provides data used to run programs on a PC.
+The processor allocates this data to different programs being ran on the PC.
+The processor may use virtual memory if the RAM data limit is exceeded by the data needed to run all programs user is running.
+If virtual memory is used, processor will allocate free space on HD or SSD to mitigate slowing or freezing the system.
